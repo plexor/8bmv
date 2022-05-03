@@ -2361,4 +2361,548 @@ p {
   src: url(https://decentral.games/_next/static/media/Larsseit4.77a7bcf0.ttf);
 }
 
-
+/*! CSS Used from: Embedded */
+.mat-typography {
+  font: 400 14px/20px Roboto, Helvetica Neue, sans-serif;
+  letter-spacing: normal;
+}
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, Helvetica Neue, sans-serif;
+}
+/*! CSS Used from: https://www.eightbitmafia.com/styles.94e2b89dad2cbaad1e9f.css ; media=all */
+@media all {
+  .mat-typography h1 {
+    font: 400 24px/32px Roboto, Helvetica Neue, sans-serif;
+    letter-spacing: normal;
+    margin: 0 0 16px;
+  }
+  .mat-typography h2 {
+    font: 500 20px/32px Roboto, Helvetica Neue, sans-serif;
+    letter-spacing: normal;
+    margin: 0 0 16px;
+  }
+  .mat-typography {
+    font: 400 14px/20px Roboto, Helvetica Neue, sans-serif;
+    letter-spacing: normal;
+  }
+  .cdk-visually-hidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap;
+    outline: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  }
+  body {
+    height: 100%;
+  }
+  body {
+    margin: 0;
+    font-family: Roboto, Helvetica Neue, sans-serif;
+  }
+}
+/*! CSS Used from: Embedded */
+.content-holder[_ngcontent-syh-c11] {
+  background-color: #000;
+  color: #cfd0cf;
+  align-content: center;
+  font-family: "OPTIImprovNewWideNine";
+}
+/*! CSS Used from: Embedded */
+.jMhaxE {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  border-radius: 50%;
+  overflow: visible;
+  box-shadow: none;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.jMhaxE img {
+  width: 100%;
+  height: 100%;
+}
+@media screen and (max-width: 768px) {
+  .jMhaxE {
+    width: 8.5vw;
+    height: 8.5vw;
+  }
+}
+.bqzjdb {
+  width: 100%;
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 0.5em;
+  color: rgb(199, 199, 199);
+}
+@media screen and (max-width: 768px) {
+  .bqzjdb {
+    font-size: 5vw;
+  }
+}
+.gTeXGK {
+  width: 100%;
+  font-size: 18px;
+  margin: 0.333em 0px;
+  color: rgb(136, 136, 136);
+}
+@media screen and (max-width: 768px) {
+  .gTeXGK {
+    font-size: 4vw;
+  }
+}
+.boNcpQ {
+  transition: background-color 0.2s ease-in-out 0s;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  background-color: rgb(39, 49, 56);
+  border-radius: 12px;
+  padding: 24px 16px;
+}
+@media screen and (max-width: 768px) {
+  .boNcpQ {
+    padding: 1vw;
+  }
+}
+.damoxS {
+  width: 100%;
+  padding: 8px;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+  border-radius: 0px;
+  border: 1px solid rgba(195, 195, 195, 0.14);
+}
+@media (hover: hover) {
+  .damoxS:hover .sc-hKFyIo {
+    background-color: rgb(16, 26, 32);
+  }
+}
+.kRmdPb {
+  transition: opacity 0.1s ease-in-out 0s;
+  text-align: center;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  margin-left: -50vw;
+  top: 0px;
+  left: 50%;
+  z-index: 2;
+  will-change: opacity;
+  background-color: rgba(0, 0, 0, 0.4);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.kRmdPb * {
+  box-sizing: border-box !important;
+}
+.fVQpCb {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding: 15px;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+.knnrxv {
+  position: absolute;
+  inset: 0px;
+}
+.bBWmgn {
+  position: relative;
+  width: 100%;
+  background-color: rgb(39, 49, 56);
+  border-radius: 12px;
+  margin: 10px;
+  padding: 0px;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  max-width: 500px;
+  min-width: fit-content;
+  max-height: 100%;
+  overflow: auto;
+}
+@media screen and (max-width: 768px) {
+  .bBWmgn {
+    max-width: 500px;
+    grid-template-columns: 1fr;
+  }
+}
+/*! CSS Used from: Embedded */
+.home-image[_ngcontent-syh-c8] {
+  min-height: 1000px;
+  background-image: url(https://www.eightbitmafia.com/HOME.d2ef7189b0358f729f3e.jpg);
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.phase-1-bar[_ngcontent-syh-c8] {
+  width: 100%;
+}
+.phase-2-bar[_ngcontent-syh-c8] {
+  width: 100%;
+}
+.about-content[_ngcontent-syh-c8] {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.about-gif[_ngcontent-syh-c8] {
+  width: 30%;
+  height: 30%;
+  align-self: center;
+}
+.social-button[_ngcontent-syh-c8] {
+  width: 65px;
+  height: 65px;
+  margin-right: 50px;
+}
+.social-links[_ngcontent-syh-c8] {
+  position: absolute;
+  top: 30px;
+  right: 70px;
+}
+.logo-container[_ngcontent-syh-c8] {
+  align-items: center;
+  display: flex;
+}
+.mafia-logo[_ngcontent-syh-c8] {
+  width: 20%;
+  margin: 0 auto;
+}
+.about-text[_ngcontent-syh-c8] {
+  font-size: 2.7vh;
+  line-height: 4vh;
+  padding: 5%;
+  text-align: center;
+  font-family: Helvetica;
+}
+.social-links-bottom[_ngcontent-syh-c8] {
+  bottom: 10%;
+}
+.social-button-bottom[_ngcontent-syh-c8] {
+  width: 65px;
+  height: 65px;
+  padding: 30px;
+}
+.about-header[_ngcontent-syh-c8] {
+  padding-top: 10%;
+  padding-bottom: 10%;
+  font-size: 5vh;
+  line-height: 6vh;
+  text-align: center;
+  font-family: "OPTIImprovNewWideNine";
+}
+.footer[_ngcontent-syh-c8] {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.about-subheader[_ngcontent-syh-c8] {
+  padding-top: 15%;
+  font-size: 2.6vh;
+  line-height: 5vh;
+  text-align: center;
+  font-family: "OPTIImprovNewWideNine";
+}
+@media screen and (max-width: 1500px) {
+  .about-content[_ngcontent-syh-c8] {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+  .home-image[_ngcontent-syh-c8] {
+    min-height: 1500px;
+    background-image: url(https://www.eightbitmafia.com/HOME_MOBILE.ed62558b0f5ef71fe25a.jpg);
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .about-text[_ngcontent-syh-c8] {
+    font-size: 2.4vh;
+    line-height: 4.6vh;
+    font-family: Helvetica;
+  }
+  .about-gif[_ngcontent-syh-c8] {
+    width: 100%;
+    height: 100%;
+    align-self: center;
+    padding-bottom: 15%;
+  }
+  .spacer[_ngcontent-syh-c8] {
+    height: 25%;
+    width: 100%;
+  }
+  .home-image[_ngcontent-syh-c8] {
+    min-height: 600px;
+    background-image: url(https://www.eightbitmafia.com/HOME_MOBILE.ed62558b0f5ef71fe25a.jpg);
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .social-button[_ngcontent-syh-c8] {
+    width: 10%;
+    height: 10%;
+    margin-right: 7%;
+  }
+  .social-links[_ngcontent-syh-c8] {
+    position: absolute;
+    top: 4%;
+    right: 7%;
+    left: 7%;
+  }
+}
+/*! CSS Used fontfaces */
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fCRc4AMP6lbBP.woff2)
+    format("woff2");
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F,
+    U+FE2E-FE2F;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fABc4AMP6lbBP.woff2)
+    format("woff2");
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fCBc4AMP6lbBP.woff2)
+    format("woff2");
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBxc4AMP6lbBP.woff2)
+    format("woff2");
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fCxc4AMP6lbBP.woff2)
+    format("woff2");
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1,
+    U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fChc4AMP6lbBP.woff2)
+    format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2)
+    format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2)
+    format("woff2");
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F,
+    U+FE2E-FE2F;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2)
+    format("woff2");
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2)
+    format("woff2");
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2)
+    format("woff2");
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2)
+    format("woff2");
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1,
+    U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2)
+    format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2)
+    format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2)
+    format("woff2");
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F,
+    U+FE2E-FE2F;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2)
+    format("woff2");
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2)
+    format("woff2");
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2)
+    format("woff2");
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2)
+    format("woff2");
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1,
+    U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2)
+    format("woff2");
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+    U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2)
+    format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+    U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: OPTIImprovNewWideNine;
+  src: local("OPTIImprovNewWideNine"),
+    url(https://www.eightbitmafia.com/OPTIImprovNewWideNine.f5a2f8702673028ebc45.otf)
+      format("opentype");
+}
