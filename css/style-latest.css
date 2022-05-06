@@ -2565,7 +2565,7 @@ body {
 /*! CSS Used from: Embedded */
 .home-image[_ngcontent-syh-c8] {
   min-height: 1000px;
-  background-image: url(https://www.eightbitmafia.com/HOME.d2ef7189b0358f729f3e.jpg);
+  background-image: url(images/HOME.d2ef7189b0358f729f3e.jpg);
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2651,7 +2651,7 @@ body {
   }
   .home-image[_ngcontent-syh-c8] {
     min-height: 1500px;
-    background-image: url(https://www.eightbitmafia.com/HOME_MOBILE.ed62558b0f5ef71fe25a.jpg);
+    background-image: url(images/HOME_MOBILE.ed62558b0f5ef71fe25a.jpg);
     background-attachment: scroll;
     background-position: center center;
     background-repeat: no-repeat;
@@ -2674,7 +2674,7 @@ body {
   }
   .home-image[_ngcontent-syh-c8] {
     min-height: 600px;
-    background-image: url(https://www.eightbitmafia.com/HOME_MOBILE.ed62558b0f5ef71fe25a.jpg);
+    background-image: url(images/HOME_MOBILE.ed62558b0f5ef71fe25a.jpg);
     background-attachment: scroll;
     background-position: center center;
     background-repeat: no-repeat;
