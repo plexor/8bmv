@@ -1,5 +1,4 @@
-HTML CSSResult Skip Results Iframe
-EDIT ON
+
 body { margin:0;padding:0;font-family:Verdana;}
 
 #header {
@@ -8,7 +7,7 @@ body { margin:0;padding:0;font-family:Verdana;}
   position:fixed;
   top:0;
   width:100%;
-  background:#FD62A9;
+  background:gray;
   color:#000;
   text-align:center;
   -webkit-box-shadow: 0px 6px 5px rgba(50, 50, 50, 0.75);
@@ -37,7 +36,7 @@ box-shadow: inset 0px -6px 5px rgba(50, 50, 50, 0.75);
 }
 
 #trans2 {
-  background: url('http://i1289.photobucket.com/albums/b506/katie_rogers6/KatieandJacob-159_zpsb28e3e63.jpg') no-repeat center center fixed;
+  background: url('img/ASSETFUSION.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -45,7 +44,7 @@ box-shadow: inset 0px -6px 5px rgba(50, 50, 50, 0.75);
 }
 
 #trans3 {
-  background: url('http://i1289.photobucket.com/albums/b506/katie_rogers6/KatieandJacob-372_zpsb1f5c475.jpg') no-repeat top center fixed;
+  background: url('img/council.jpg') no-repeat top center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -54,7 +53,7 @@ box-shadow: inset 0px -6px 5px rgba(50, 50, 50, 0.75);
 }
 
 .txt {
-  font-family: 'Niconne', cursive;
+  font-family: 'Niconne',;
   font-size:55px;
   color:#000;
   width:auto;
@@ -123,4 +122,3 @@ box-shadow: inset 0px -6px 5px rgba(50, 50, 50, 0.75);
 
 
 
-Resources1× 0.5× 0.25×Rerun
