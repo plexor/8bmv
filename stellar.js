@@ -7,6 +7,16 @@
  * http://markdalgleish.mit-license.org
  */
 
+
+
+
+
+
+
+
+
+
+
 ;(function($, window, document, undefined) {
 
 	var pluginName = 'stellar',
