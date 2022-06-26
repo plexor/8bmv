@@ -69,7 +69,7 @@ h1 a {
 }
 .winter {
   background-image: url(img/ASSETFUSION.jpg);
-  background-size: contain;
+  background-size: cover;
 }
 .spring {
   background-image: url(img/super-rares.jpg);
@@ -78,7 +78,7 @@ h1 a {
 
 .ok {
   background-image: url(img/council.jpg);
-  background-size: contain;
+  background-size: cover;
 }
 
 .about-content {
@@ -424,6 +424,7 @@ img {
 	top: 0px;
 	z-index: 9;
   width: -webkit-fill-available;
+  height: 9vh;
 }
 .nav .logo {
   display: inline-block;
@@ -466,6 +467,12 @@ img {
 }
 
 
+#ol{
+  
+ min-height: ; 
+  
+  
+}
 
 
 
