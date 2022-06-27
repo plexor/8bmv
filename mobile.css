@@ -17,12 +17,15 @@
 
 
 .nav {
-	background: #e3e3e3;
+	background: black;
 	padding: 15px;
 	position: fixed; /*left: 50%;*/
 	width: 100%;
 	top: 20px;
 	z-index: 9;
+      border-bottom: solid 3px silver;
+  margin-top: -5vh;
+
 }
 .nav .logo {
   display: inline-block;
