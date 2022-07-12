@@ -1,31 +1,35 @@
- 
-  img {
-        max-width: 100%;
-    
-  }
+*{
+  
+  background: black;
+  
+}
+
+img {
+  max-width: 100%;
+}
 
 #mafia-logo-hidden {
-  
   display: none;
 }
-
 
 #timeline-hidden {
-  
   display: none;
 }
 
-
+#dapp-button {
+  border: solid 4px silver;
+  border-radius: 22px;
+  padding: 9px;
+}
 .nav {
-	background: black;
-	padding: 15px;
-	position: fixed; /*left: 50%;*/
-	width: 100%;
-	top: 20px;
-	z-index: 9;
-      border-bottom: solid 3px silver;
+  background: black;
+  padding: 15px;
+  position: fixed; /*left: 50%;*/
+  width: 100%;
+  top: 20px;
+  z-index: 9;
+  border-bottom: solid 3px silver;
   margin-top: -5vh;
-
 }
 .nav .logo {
   display: inline-block;
@@ -39,31 +43,62 @@
   padding: 0;
   float: right;
 }
-.nav li{
-	list-style: none;
-	display: inline-block;
+.nav li {
+  list-style: none;
+  display: inline-block;
 }
 .nav a {
-	padding: 7px 20px;
-	border-radius: 7px;
-	margin-right: 10px;
-	background: rgba(255, 255, 255, 0.5);
-	-webkit-transition: all 0.2s ease-out;
-	-moz-transition: all 0.2s ease-out;
-	-ms-transition: all 0.2s ease-out;
-	-o-transition: all 0.2s ease-out;
-	transition: all 0.2s ease-out;
-	text-decoration: none;
-	color: black;
-	font-family: sans-serif, arial;
-	font-weight: 100;
-}
-.nav a.active {
-	background: #000;
-	color: white;
-}
-.nav a:hover {
-	background: #000;
-	color: #fff;
+  padding: 7px 20px;
+  margin-right: 10px;
+  background: black;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  text-decoration: none;
+  color: white;
+  font-family: sans-serif, arial;
+  font-weight: 100;
+  display: block;
 }
 
+.about-header {
+  
+    font-size: 2.4vh;
+    line-height: 4.6vh;
+    font-family: Helvetica;
+    background-color: black;
+    color: white;
+  
+  
+}
+
+.about {
+  
+  font-size: 2.4vh;
+    line-height: 4.6vh;
+    font-family: Helvetica;
+    background-color: black;
+    color: white;
+}
+
+#resources {
+  font-size: 2.4vh;
+    line-height: 4.6vh;
+    font-family: Helvetica;
+    background-color: black;
+    color: white;
+  
+  
+  
+}
+
+#signature{
+    font-size: 2.4vh;
+    line-height: 4.6vh;
+    font-family: Helvetica;
+    background-color: black;
+    color: white;
+  
+}
